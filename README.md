@@ -18,6 +18,8 @@ The signal path follows a classic op-amp overdrive topology, similar in spirit t
 
 Full details, block diagram, and the BOM are in [docs](docs).
 
+Note: the docs were submitted as a two-person university assignment, so a partner's name appears on them alongside mine. In practice I designed and built this alone; the partner didn't contribute.
+
 ## Tools
 
 - KiCad 9.0.5 for schematic capture and PCB layout
