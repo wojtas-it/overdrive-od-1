@@ -7,6 +7,12 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
+	(title_block
+		(title "OverDrive Unit OD-1")
+		(date "18.06.2026")
+		(rev "2.0")
+		(company "Filip Wojtasiński (37747), Tomasz Lesiak (37708)")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(2 "B.Cu" signal)
