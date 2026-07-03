@@ -4,7 +4,6 @@ An analog guitar overdrive/distortion pedal built around a dual op-amp gain stag
 
 ![Schematic](screenshots/schematic.svg)
 ![PCB layout](screenshots/pcb-layout.svg)
-![PCB 3D render](screenshots/pcb-3d.png)
 
 ## Circuit overview
 
@@ -33,6 +32,6 @@ Note: the docs were submitted as a two-person university assignment, so a partne
 - Physical build: not yet built, so there's no prototype photo yet
 - Testing: not yet documented
 
-The schematic, PCB layout, and 3D render above are generated straight from the KiCad files in [kicad](kicad) with `kicad-cli`. A photo of the physical pedal will be added here once it's built.
+The schematic and PCB layout above are generated straight from the KiCad files in [kicad](kicad) with `kicad-cli`. A photo of the physical pedal will be added here once it's built.
 
 Designed in 2026 as a university electronics project.
