@@ -5,6 +5,8 @@ An analog guitar overdrive/distortion pedal built around a dual op-amp gain stag
 ![Schematic](screenshots/schematic.svg)
 ![PCB layout](screenshots/pcb-layout.svg)
 
+The PCB layout image shows the top copper (F.Cu) traces only. The bottom layer (B.Cu) is almost entirely a GND pour, so showing it just fills the board with a solid color and hides the actual routing.
+
 ## Circuit overview
 
 The signal path follows a classic op-amp overdrive topology, similar in spirit to circuits like the Tube Screamer: an op-amp gain stage feeding a diode clipper, followed by a passive tone filter and a buffered output stage.
