@@ -35,3 +35,7 @@ Note: the docs were submitted as a two-person university assignment, so a partne
 The schematic and PCB layout above are exported from the KiCad files in [kicad](kicad). A photo of the physical pedal will be added here once it's built.
 
 Designed in 2026 as a university electronics project.
+
+## More
+
+Portfolio: [wojtas.it](https://wojtas.it)
